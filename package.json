@@ -1,0 +1,11 @@
+{
+  "name": "webpack-app",
+  "version": "1.0.0",
+  "description": "loftscholl webpack lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Serge",
+  "license": "MIT"
+}
